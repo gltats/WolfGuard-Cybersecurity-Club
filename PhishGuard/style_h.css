@@ -1,0 +1,65 @@
+body{
+	background-color: rgb(168, 16, 16);
+	color: aliceblue;
+	text-align: center;
+	margin-top: 10rem;
+}
+
+/* Basic styles for the container */
+.container {
+    text-align: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Styles for the header */
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+/* Styles for the paragraphs */
+p {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+/* Styles for the video container */
+.video-container {
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio (change as needed) */
+    margin-top: 20px;
+}
+
+/* Style for the embedded YouTube video */
+#ytplayer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Style for "You have been hacked" text */
+.moving-text {
+    position: absolute; /* Position text absolutely within the container */
+    top: 0%; /* Center vertically */
+    left: -100%; /* Move text out of the container to the left */
+    width: 100%; /* Full width */
+    text-align: center;
+    opacity: 0.5; /* Make text slightly transparent */
+    animation: moveSideways 10s linear infinite alternate; /* Animation for sideways movement */
+	color: aquamarine;
+}
+
+/* Animation for sideways movement */
+@keyframes moveSideways {
+    0% {
+        left: -100%; /* Start position */
+    }
+    100% {
+        left: 100%; /* End position (move to the right) */
+    }
+}
