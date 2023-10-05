@@ -38,15 +38,16 @@ Membership in the WolfGuard Cybersecurity Club is open to all students of 42 Wol
   - Guest speaker sessions featuring cybersecurity experts
   - Participation in cybersecurity competitions and events
 
-Please refer to our [official calendar](#link-to-calendar) for information about upcoming meetings and events. //UPCOMING!
+Please refer to our [official calendar](#link-to-calendar) for information about upcoming meetings and events. **//UPCOMING!**
 
 ## Leadership
 
 The WolfGuard Cybersecurity Club is led by a team of dedicated officers who are elected annually by club members. The current officers are:
 
-- **Founder:** Sofia -> [gltats](#https://github.com/gltats), t-gomes-l
-- **Co-founder1:** Abir -> [mdabir1203](#https://github.com/mdabir1203), mabbas
-- **Co-founder2:** Jonas -> [jnspr](#https://github.com/jnspr), jsprenge
+- **Founder:** Sofia -> [gltats](https://github.com/gltats), t-gomes-l
+- **Co-founder1:** Abir -> [mdabir1203](https://github.com/mdabir1203), mabbas
+- **Co-founder2:** Jonas -> [jnspr](https://github.com/jnspr), jsprenge
+- **Co-founder3:** Bekchanboy -> [thedatab0y](https://github.com/thedatab0y), busmanov
 
 Our officers play a crucial role in organizing and facilitating club activities, ensuring that our mission is achieved, and representing the interests of our members.
 
@@ -54,8 +55,8 @@ Our officers play a crucial role in organizing and facilitating club activities,
 
 If you have any questions or want to get involved with the WolfGuard Cybersecurity Club, please don't hesitate to reach out to us:
 
-- **School channels:** tgomes-l, mabbas, jsprenge
-- **Club Website:** coming soon
+- **School channels:** tgomes-l, mabbas, jsprenge, busmanov
+- **Club Website:** **COMING SOON!**
 
 
 We look forward to welcoming you to the WolfGuard Cybersecurity Club and exploring the exciting world of cybersecurity together!
